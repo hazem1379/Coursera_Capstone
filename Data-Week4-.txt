@@ -1,0 +1,11 @@
+Data for this task:
+We will collect information about the various neighborhoods in the city of Irbid, and we will identify how many potential attractive venues there in each neighborhood.
+The dataset that we will use should mainly include:
+1- The venues for all the neighborhoods in the city.
+2- Type of venues.
+3- Geographical coordinates for the venues locations.
+4- Counts of attractive venues in each neighborhood.
+5- Number of pharmacies in each neighborhood. 
+
+I will use the Foursquare API for getting the required information about the city understudy, also the intended theory and notebook of this project will be based on the exercises that were used in week1 to week3 in Coursera courseTop of Form Applied Data Science Capstone.
+

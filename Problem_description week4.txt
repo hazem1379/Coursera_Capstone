@@ -1,0 +1,7 @@
+Description of the problem:
+In a small city in Jordan called Irbid, there are about 500 Pharmacies spread all around the city, a new investor who is willing to open a new pharmacy in Irbid is looking for consultation about where is the best place that can he start his pharmacy. so he is looking for a data analysis to study the neighborhoods in the city. The investor wants a commercial area which has many attractive sites that bring many walking people, and he means by attractive site, places like restaurants museums, coffee shops and other attracting places.
+So the analysis should answer the following questions:
+1- Which area has the highest number of attractive areas like coffee shops etc…
+2- How many pharmacists are already open in the most attractive neighborhood?
+3- What is the recommended areas that can be chosen to open the new Pharmacy?
+The main assumption behind this study is that in order to increase the chances of success of opening a commercial private pharmacy in the city in Irbid, the investor should choose a location with less competition and with many people visiting that location because of the attractive sites in that are based on that same location or neighborhood.
